@@ -1,8 +1,8 @@
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AmirulIslam71)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/amirul-islam-b943a226b//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>]
+![Front-End developer](https://i.ibb.co/7CDnDc2/web-development-image.png)
 
 ### Hi there 👋, Amirul Islam
 #### Front-End developer
-![Front-End developer](https://i.ibb.co/7CDnDc2/web-development-image.png)
+
 
 
 I am a passionate individual with a keen interest in technology and web development. With a strong foundation in programming languages and frameworks, I am constantly expanding my knowledge and learning new skills. My dedication to creating innovative solutions and collaborating with others makes me a valuable asset in any project. I strive for excellence and am committed to continuous personal and professional growth in the dynamic field of technology.
@@ -14,7 +14,7 @@ Skills:  REACT / JS / HTML / CSS/express/firebase/mongodb
 - 👯 I’m looking to collaborate on github 
 
 
-(https://www.facebook.com/https://www.facebook.com/profile.php?id=100089102340390)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AmirulIslam71)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/amirul-islam-b943a226b//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100089102340390)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AmirulIslam71)](https://github.com/ryo-ma/github-profile-trophy)
 
